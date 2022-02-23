@@ -1,3 +1,5 @@
+package spring_introduction;
+
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import spring_introduction.Cat;
 import spring_introduction.Person;
