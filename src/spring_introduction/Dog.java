@@ -1,6 +1,5 @@
 package spring_introduction;
 
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
